@@ -1,0 +1,9 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
+vite.config.ts.timestamp*
+bun.lock
